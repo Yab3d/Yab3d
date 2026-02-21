@@ -1,22 +1,24 @@
-<!-- 🔥 Animated Typing Intro -->
+<!-- 🌟 Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Yabsra+Abesha;MERN+Stack+Developer;Web3+and+Blockchain+Builder;Backend+Systems+Enthusiast;Building+The+Future+With+Code+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Yabsra+Abesha;MERN+Stack+Developer;Learning+Web3+and+Blockchain+Development;Building+Full+Stack+Applications+🚀" />
 </p>
 
 ---
 
 # 💫 About Me
 
-🚀 MERN Stack Developer | Web3 Explorer  
-🔗 Learning Blockchain & Smart Contract Development  
-🎯 Mission: Become a Professional Web3 & Backend Engineer  
-🌱 Growing step by step through real projects  
+🚀 MERN Stack Developer  
+🔗 Learning Web3 & Blockchain Development  
+💻 Building modern full-stack applications  
+🎯 Goal: Become a strong Backend + Web3 Engineer  
+
+I focus on learning by building real projects and improving system design knowledge step by step.
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0ea5e9?style=for-the-badge&logo=tailwind-css)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
@@ -33,13 +35,13 @@
 
 ---
 
-### 🔗 Blockchain
+### 🔗 Blockchain & Web3 (Learning)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yab3d&show_icons=true&theme=tokyonight&count_private=true" />
@@ -55,13 +57,13 @@
 
 ---
 
-## 🌱 Currently Growing In
+## 🌱 Currently Improving In
 
-- 🏗 Building MERN stack applications  
+- 🏗 Building MERN stack projects  
 - 🔐 Learning secure smart contract development  
 - 🧪 Practicing blockchain testing using Foundry  
 - ⚡ Improving backend architecture knowledge  
-- 🚀 Expanding Web3 development skills  
+- 🚀 Growing my Web3 development skills
 
 ---
 
@@ -75,4 +77,4 @@
 
 ---
 
-💡 *From Full Stack Development → Decentralized Systems → The Future of Web3*
+💡 *From Full Stack Development → Web3 & Decentralized Technologies*
