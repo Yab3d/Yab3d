@@ -43,17 +43,12 @@ I focus on learning by building real projects and improving system design knowle
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yab3d&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Yab3d&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yab3d&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
