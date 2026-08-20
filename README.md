@@ -7,10 +7,10 @@
 
 # 💫 About Me
 
-🚀 MERN Stack Developer  
-🔗 Learning Web3 & Blockchain Development  
-💻 Building modern full-stack applications  
-🎯 Goal: Become a strong Backend + Web3 Engineer  
+🚀 MERN Stack Developer
+🔗 Learning Web3 & Blockchain Development
+💻 Building modern full-stack applications
+🎯 Goal: Become a strong Backend + Web3 Engineer
 
 I focus on learning by building real projects and improving system design knowledge step by step.
 
@@ -43,21 +43,22 @@ I focus on learning by building real projects and improving system design knowle
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yab3d&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🌱 Currently Improving In
 
-- 🏗 Building MERN stack projects  
-- 🔐 Learning secure smart contract development  
-- 🧪 Practicing blockchain testing using Foundry  
-- ⚡ Improving backend architecture knowledge  
+- 🏗 Building MERN stack projects
+- 🔐 Learning secure smart contract development
+- 🧪 Practicing blockchain testing using Foundry
+- ⚡ Improving backend architecture knowledge
 - 🚀 Growing my Web3 development skills
 
 ---
@@ -65,9 +66,9 @@ I focus on learning by building real projects and improving system design knowle
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/yabsra-abesha/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/yabsra-abesha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
